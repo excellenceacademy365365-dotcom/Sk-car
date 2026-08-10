@@ -1,0 +1,6 @@
+{
+  "name": "SK Car Bazar",
+  "description": "Premium pre-owned car dealership in Gorakhpur, Uttar Pradesh. Quality checked cars, transparent deals, and easy finance options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
